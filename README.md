@@ -1,4 +1,4 @@
-The dataset file contains data exclusively from UK participants used to assess the psychological profile based on the OCEAN trait (Tunguz, 2019).
+File data-final-CLEAN-GB-Data-GitHub.csv and data-final-CLEAN-GB-Data-GitHub.xlsx dataset file contains data exclusively from UK participants used to assess the psychological profile based on the OCEAN trait (Tunguz, 2019).
 
 Reference:
 
