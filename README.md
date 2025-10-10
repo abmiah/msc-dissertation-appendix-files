@@ -1,4 +1,8 @@
-The `data-final-CLEAN-GB-Data-GitHub.csv` and `data-final-CLEAN-GB-Data-GitHub.xlsx` datasets contain exclusively UK participant data used to assess the psychological profile based on the OCEAN trait (Tunguz, 2019).
+1) The `data-final-CLEAN-GB-Data-GitHub.csv` and `data-final-CLEAN-GB-Data-GitHub.xlsx` datasets contain exclusively UK participant data used to assess the psychological profile based on the OCEAN trait (Tunguz, 2019).
+
+2) The file named `data-final-CLEAN_GB_Data_for_KMean.csv` includes data from the OCEAN traits and provides row averages to support the effective operation of the k-means clustering algorithm (Tunguz, 2019).
+
+3) `KMean.ipynb` file contains the Python code with the necessary libraries, including `pandas`, `matplotlib`, and `sklearn.cluster`.
 
 
 
